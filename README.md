@@ -16,7 +16,7 @@
 &nbsp;
 &nbsp;
 
-<h1 align="center">Programming Languages</h1>
+<h1 align="center">Languages</h1>
 &nbsp;
 &nbsp;
 &nbsp;
