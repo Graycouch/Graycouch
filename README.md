@@ -8,7 +8,7 @@
 <a href="https://discord.gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Graycouch#3982" height="30" width="40" /></a>
 </p>
 
-## Languages <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Languages
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=graycouch&show_icons=true&locale=en&layout=compact" alt="graycouch" /></p>
