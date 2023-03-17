@@ -1,5 +1,4 @@
-<h1 align="center">Beep Boop</h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5501&color=FFFFFF&vCenter=true&center=true&width=470&lines=Software+Engineer;Computer+Scientist;SFS+Scholar;Lifelong+Learner;Avid+Gamer;Anime+Connoisseur" </p>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5501&color=FFFFFF&vCenter=true&center=true&width=470&lines=Software+Engineer;Computer+Scientist;SFS+Scholar;Lifelong+Learner;Avid+Gamer;Anime+Connoisseur" </p>
 
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
