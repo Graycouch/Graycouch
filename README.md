@@ -54,7 +54,7 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/65471490/225827146-2acba7bf-fe9f-4bf7-a470-03da48fdb9be.png" alt="figma" width="40" height="40"/> 
+  <img src="https://user-images.githubusercontent.com/65471490/225827146-2acba7bf-fe9f-4bf7-a470-03da48fdb9be.png" alt="figma" width="80" height="40"/> 
 </p>
 <h1 align="center">Databases</h1>
 &nbsp;
