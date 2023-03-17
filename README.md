@@ -4,7 +4,7 @@
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
   
-<a href="https://www.linkedin.com/in/abdel-rahman-mansour">
+<a href="https://www.linkedin.com/in/abdel-rahman-mansour" height="30" width="40">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
   
