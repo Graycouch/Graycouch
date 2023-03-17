@@ -4,10 +4,10 @@
 <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a> </p>
 
 <h1 align="center">Languages</h1>
+&nbsp;
+&nbsp;
+&nbsp;
 <p align="center">
-&nbsp;
-&nbsp;
-&nbsp;
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </a> 
