@@ -65,7 +65,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/>
 <img src="https://user-images.githubusercontent.com/65471490/225829991-79fe69e3-3bf5-48a2-8a55-498702505bff.png" alt="postgresql" width="80" height="80"/>
-<img src="https://user-images.githubusercontent.com/65471490/225830555-bd1bd1ec-d666-4877-8855-814493d5aeeb.png" alt="mongodb" width="120" height="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/>
 </p>
 &nbsp;
 &nbsp;
