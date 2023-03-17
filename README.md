@@ -11,7 +11,6 @@
 &nbsp;
 &nbsp;
 &nbsp; 
-  
 ## Frameworks:
 &nbsp;
 &nbsp;
@@ -20,7 +19,6 @@
 &nbsp;
 &nbsp;
 &nbsp; 
-  
 ## Developer Tools:
 &nbsp;
 &nbsp;
@@ -29,7 +27,6 @@
 &nbsp;
 &nbsp;
 &nbsp; 
-  
 ## Databases:
 &nbsp;
 &nbsp;
