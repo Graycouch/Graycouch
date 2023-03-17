@@ -1,7 +1,10 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5501&color=FFFFFF&vCenter=true&center=true&width=470&lines=Software+Engineer;Computer+Scientist;SFS+Scholar;Lifelong+Learner;Avid+Gamer;Anime+Connoisseur" </p>
   
-<p align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/abdel-rahman-mansour">
-<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdel-rahman-mansour" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a> 
+</p>
 
 <h1 align="center">Languages</h1>
 &nbsp;
