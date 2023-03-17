@@ -3,7 +3,7 @@
   <p align="center"><a href="https://www.linkedin.com/in/abdel-rahman-mansour">
 <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a> </p>
 
-## Languages:
+<h1>Languages</h1>
 &nbsp;
 &nbsp;
 &nbsp;
