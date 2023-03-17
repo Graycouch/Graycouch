@@ -5,8 +5,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=graycouch&show_icons=true&locale=en" alt="graycouch" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=graycouch&" alt="graycouch" /></p>
   
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdel-rahman-mansour" height="30" width="40">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white">
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abdel rahman mansour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdel rahman mansour" height="30" width="40" /></a>
+<a href="https://instagram.com/abdel.rahman.mansour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdel.rahman.mansour" height="30" width="40" /></a>
+<a href="https://discord.gg/Graycouch#3982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Graycouch#3982" height="30" width="40" /></a>
 </p>
