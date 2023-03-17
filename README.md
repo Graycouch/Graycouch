@@ -61,8 +61,6 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/103407697/220855537-2f005080-964e-4c31-b451-b84f37c85a38.png" alt="express" width="95" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 </a>
@@ -72,6 +70,8 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/103407697/220855537-2f005080-964e-4c31-b451-b84f37c85a38.png" alt="express" width="195" height="40"/> </a>
 </p>
 <h1 align="center">Developer Tools</h1>
 &nbsp;
