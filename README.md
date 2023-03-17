@@ -3,7 +3,7 @@
   <p align="center"><a href="https://www.linkedin.com/in/abdel-rahman-mansour">
 <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a> </p>
 
-<h3 align="center">Languages</h3>
+<h1 align="center">Languages</h1>
 &nbsp;
 &nbsp;
 &nbsp;
@@ -18,7 +18,7 @@
 &nbsp;
 &nbsp;
 
-## Frameworks:
+<h1 align="center">Frameworks</h1>
 &nbsp;
 &nbsp;
 &nbsp;
@@ -27,7 +27,7 @@
 &nbsp;
 &nbsp; 
 
-## Developer Tools:
+<h1 align="center">Developer Tools</h1>
 &nbsp;
 &nbsp;
 &nbsp;
@@ -36,7 +36,7 @@
 &nbsp;
 &nbsp; 
 
-## Databases:
+<h1 align="center">Databases</h1>
 &nbsp;
 &nbsp;
 &nbsp;
