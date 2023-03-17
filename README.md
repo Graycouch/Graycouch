@@ -2,9 +2,8 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Languages:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=graycouch&show_icons=true&locale=en" alt="graycouch" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=graycouch&" alt="graycouch" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=graycouch&show_icons=true&locale=en" alt="graycouch" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=graycouch&" alt="graycouch" /></p>
   
 <p align="center">
   <a href="https://www.linkedin.com/in/abdel-rahman-mansour" height="30" width="40">
