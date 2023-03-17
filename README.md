@@ -11,4 +11,4 @@
   
 ## Databases
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=graycouch&" alt="graycouch" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=graycouch&" alt="graycouch" /></p>
