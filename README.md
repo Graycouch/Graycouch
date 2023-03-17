@@ -54,16 +54,19 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/65471490/225827395-5556c2fa-f8e3-4423-b106-706dd01fa179.png" alt="VS Code" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/65471490/225828219-acd0240b-3545-4ef2-9324-695791495c7f.png" width="Android Studio" height="40"/>
-  <img src="https://user-images.githubusercontent.com/65471490/225828558-023bf9f4-f5d0-45a0-a061-b0af0ec8f29f.png" width="IntelliJ" height="40"/>
+  <img src="https://user-images.githubusercontent.com/65471490/225827395-5556c2fa-f8e3-4423-b106-706dd01fa179.png" alt="vs code" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/65471490/225828219-acd0240b-3545-4ef2-9324-695791495c7f.png" width="android studio" height="40"/>
+  <img src="https://user-images.githubusercontent.com/65471490/225828558-023bf9f4-f5d0-45a0-a061-b0af0ec8f29f.png" width="intellij" height="40"/>
 </p>
 <h1 align="center">Databases</h1>
 &nbsp;
 &nbsp;
 &nbsp;
 <p align="center">
-  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/65471490/225829340-c16b73f2-e930-4bd9-ad5e-2352e5a2ab8f.png" alt="firestore" width="40" height="120"/>
 </p>
 &nbsp;
 &nbsp;
